@@ -1,3 +1,5 @@
+index.html
+|style.css
 # dulcecitlalli.github.io
 My academic trajectory started whit my career in mechatronic engineering at TecNM campus Toluca, when I obtained experience with projects focused on robotics and control. However, when I studied for my master’s degree in Automatic Control at CINVESTAV, my thesis was about a laparoscopic simulator, I programmed the dynamic surface, and I integrated a robot to interact with the virtual world. During my PhD studies at CINVESTAV, I developed a Brain-computer interface, I developed my algorithms. I have been working as a Research Professor since 2016 at TecNM campus Nuevo Leon, and I have led students to develop their thesis in the field of Biomedical Engineering. I wrote scientific articles where I reported my algorithms in biomedical data. 
 
@@ -42,4 +44,4 @@ Biomedical Signal Processing and Control 70, 103022, 2021
      11. Characterization of Kinesthetic Motor Imagery paradigm for wrist and forearm using an algorithm based on the Hurst Exponent and Variogram. A Mosqueda-Herrera, D Martinez-Peon, L Gomez-Sanchez, ...
 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC) 
 
-@import url('style.css');
+
