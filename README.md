@@ -1,13 +1,11 @@
-<Html>
 <link href="style.css">
 
 # dulcecitlalli.github.io
 
 <img src="Foto.jpeg" alt="HTML5 Icon" width="128" height="220">
 
-<Body>  
-<p> My academic trajectory started whit my career in mechatronic engineering at TecNM campus Toluca, when I obtained experience with projects focused on robotics and control. However, when I studied for my master’s degree in Automatic Control at CINVESTAV, my thesis was about a laparoscopic simulator, I programmed the dynamic surface, and I integrated a robot to interact with the virtual world. During my PhD studies at CINVESTAV, I developed a Brain-computer interface, I developed my algorithms. I have been working as a Research Professor since 2016 at TecNM campus Nuevo Leon, and I have led students to develop their thesis in the field of Biomedical Engineering. I wrote scientific articles where I reported my algorithms in biomedical data. </p>
 
+<p> My academic trajectory started whit my career in mechatronic engineering at TecNM campus Toluca, when I obtained experience with projects focused on robotics and control. However, when I studied for my master’s degree in Automatic Control at CINVESTAV, my thesis was about a laparoscopic simulator, I programmed the dynamic surface, and I integrated a robot to interact with the virtual world. During my PhD studies at CINVESTAV, I developed a Brain-computer interface, I developed my algorithms. I have been working as a Research Professor since 2016 at TecNM campus Nuevo Leon, and I have led students to develop their thesis in the field of Biomedical Engineering. I wrote scientific articles where I reported my algorithms in biomedical data. </p>
 
 
 My main research paper are:
@@ -49,8 +47,5 @@ Biomedical Signal Processing and Control 70, 103022, 2021
      11. Characterization of Kinesthetic Motor Imagery paradigm for wrist and forearm using an algorithm based on the Hurst Exponent and Variogram. A Mosqueda-Herrera, D Martinez-Peon, L Gomez-Sanchez, ...
 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC) 
 
-<p> 
-You can find the web page of my institution at <a href=“http://posgrado.nuevoleon.tecnm.mx/index.php/mnu-mi-nuc-acad#dra-dulce-citlalli-martinez-peon”> TecNL </a>
-</p>
-</Body> 
-</Html>  
+You can find the web page of my institution at http://posgrado.nuevoleon.tecnm.mx/index.php/mnu-mi-nuc-acad#dra-dulce-citlalli-martinez-peon
+
