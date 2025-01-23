@@ -47,9 +47,10 @@ Biomedical Signal Processing and Control 70, 103022, 2021
 11. Characterization of Kinesthetic Motor Imagery paradigm for wrist and forearm using an algorithm based on the Hurst Exponent and Variogram. A Mosqueda-Herrera, D Martinez-Peon, L Gomez-Sanchez, ...
 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC) 
 
+You can find the web page of my institution at
 <li class="masthead__menu-item">
-          <a href="[xxx.github.io/research.html](http://posgrado.nuevoleon.tecnm.mx/index.php/mnu-mi-nuc-acad#dra-dulce-citlalli-martinez-peon)">TecNM Master in Engineering Program</a>
+          <a href="http://posgrado.nuevoleon.tecnm.mx/index.php/mnu-mi-nuc-acad#dra-dulce-citlalli-martinez-peon">TecNM Master in Engineering Program</a>
 </li>
 
-You can find the web page of my institution at http://posgrado.nuevoleon.tecnm.mx/index.php/mnu-mi-nuc-acad#dra-dulce-citlalli-martinez-peon
+
 
