@@ -2,7 +2,7 @@
 
 # dulcecitlalli.github.io
 
-<img src="Foto2.jpg" alt="HTML5 Icon" width="400" height="260">
+<img src="Foto2.jpg" alt="HTML5 Icon" width="420" height="260">
 
 
 <p> My academic trajectory started whit my career in mechatronic engineering at TecNM campus Toluca, when I obtained experience with projects focused on robotics and control. However, when I studied for my master’s degree in Automatic Control at CINVESTAV, my thesis was about a laparoscopic simulator, I programmed the dynamic surface, and I integrated a robot to interact with the virtual world. During my PhD studies at CINVESTAV, I developed a Brain-computer interface, I developed my algorithms. I have been working as a Research Professor since 2016 at TecNM campus Nuevo Leon, and I have led students to develop their thesis in the field of Biomedical Engineering. I wrote scientific articles where I reported my algorithms in biomedical data. </p>
